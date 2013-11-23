@@ -12,7 +12,7 @@ License: GPL2
 function pclj_filter_document_cpt( $args ) {
 	
 	$labels = array(
-		'name' => _x( 'Articles', 'post type general name', 'wp_document_revisions' ),
+		'name' => _x( 'Document', 'post type general name', 'wp_document_revisions' ),
 		'singular_name' => _x( 'Article', 'post type singular name', 'wp_document_revisions' ),
 		'add_new' => _x( 'Add Article', 'article', 'wp_document_revisions' ),
 		'add_new_item' => __( 'Add New Article', 'wp_document_revisions' ),
