@@ -2,7 +2,7 @@
 /*
 Plugin Name: PCLJ Label Tweaks
 Plugin URI: 
-Description: Change all wording referring to "Documents" to Articles; does not affect functionality
+Description: Returned Article to Document
 Version: 0.1
 Author: Benjamin J. Balter
 Author URI: http://ben.balter.com
